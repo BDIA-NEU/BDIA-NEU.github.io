@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "数据智能研究所"
-  # avatar           : "images/yucengao.jpg"
-  bio              : "东北大学"
+  avatar           : "images/neu-software.jpeg"
+  bio              : 
   location         : "中国沈阳"
   employer         :
   pubmed           : 
