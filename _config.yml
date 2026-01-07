@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yucen Gao"
-description              : "Associate Professor @ Software College of Northeastern University"
-repository               : "GaoYucen/yucengao.github.io"
+title                    : "数据智能研究所"
+description              : "东北大学软件学院"
+repository               : "BDIA-NEU/BDIA-NEU.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yucen Gao"
-  avatar           : "images/yucengao.jpg"
-  bio              : "Northeastern University"
-  location         : "Shenyang, China"
+  name             : "数据智能研究所"
+  # avatar           : "images/yucengao.jpg"
+  bio              : "东北大学"
+  location         : "中国沈阳"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=zv2GUHEAAAAJ&hl=zh-CN"
-  email            : "gaoyucen@neu.edu.cn"
+  googlescholar    : 
+  email            : 
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,14 +37,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "GaoYucen"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/239/4469.html"
+  dblp             : 
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
