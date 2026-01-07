@@ -53,7 +53,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "people",
-          description: "members of the lab or group",
+          description: "研究所成员由软件工程系和信息安全系的教师组成。",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
