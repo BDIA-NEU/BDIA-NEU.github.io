@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://BDIA-Neu.github.io/sitemap.xml
+Sitemap: https://bdia-neu.github.io/sitemap.xml
