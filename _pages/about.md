@@ -26,14 +26,14 @@ redirect_from:
 
 | 姓名 | 职称 | 职务/人才称号 |
 | :--- | :--- | :--- |
-| [**杨晓春**](http://faculty.neu.edu.cn/yangxiaochun) | 二级教授 | 研究所负责人、软件学院院长、国家级高层次人才 |
+| <a href="http://faculty.neu.edu.cn/yangxiaochun" target="_blank">**杨晓春**🔗</a> | 二级教授 | 研究所负责人、软件学院院长、国家级高层次人才 |
 | **张俊华** | 四级教授 | 博士生导师 |
 | **冯泽正** | 副教授 | 硕士生导师 |
 | **于明鹤** | 副教授 | 硕士生导师 |
-| [**高宇岑**](http://faculty.neu.edu.cn/gaoyucen/) | 副教授 | 硕士生导师 |
-| **孙亚童** | 特聘副研究员 | |
-| **王雷霞** | 讲师 | |
-| **马恒钊** | 讲师 | |
+| <a href="http://faculty.neu.edu.cn/gaoyucen/" target="_blank">**高宇岑**🔗</a> | 副教授 | 硕士生导师 |
+| **孙亚童** | 特聘副研究员 | 硕士生导师 |
+| **王雷霞** | 讲师 | 硕士生导师 |
+| **马恒钊** | 讲师 | 硕士生导师 |
 
 # <span class='anchor' id='research-interests'></span>
 🎓 研究方向
