@@ -1,25 +1,16 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Research Interests"
-    url: "/#-research-interests"
-
-  - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Projects"
-    url: "/#-projects"
-
-  - title: "Academic Services"
-    url: "/#-academic-services"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "关于我们"
+    url: "/#about-us"
+  - title: "团队成员"
+    url: "/#team-members"
+  - title: "研究方向"
+    url: "/#research-interests"
+  - title: "代表论文"
+    url: "/#publications"
+  - title: "科研项目"
+    url: "/#projects"
+  - title: "团队荣誉"
+    url: "/#honors-and-awards"
+  - title: "合作企业"
+    url: "/#industry-partners"
