@@ -161,6 +161,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-giscus:
-  repo: "" # 留空即可，Action 会自动填充
